@@ -17,3 +17,15 @@ end
 def reverse_array(array)
   array.reverse
 end
+
+def kesha_maker(array)
+  
+end
+
+def sum(array)
+  array.inject
+end
+
+def add_s(array)
+  
+end
