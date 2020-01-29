@@ -21,7 +21,7 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  
+  array.each {|n|
 end
 
 def sum_array(array)
