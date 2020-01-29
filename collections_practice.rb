@@ -22,7 +22,7 @@ def kesha_maker(array)
   
 end
 
-def sum(array)
+def sum_array(array)
   array.inject
 end
 
