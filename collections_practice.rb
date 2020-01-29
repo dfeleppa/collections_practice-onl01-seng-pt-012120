@@ -3,7 +3,7 @@ def sort_array_asc(array)
 end
 
 def sort_array_desc(array)
-  array.sort
+  array.sort.reverse
 end
 
 def sort_array_char_count(array)
