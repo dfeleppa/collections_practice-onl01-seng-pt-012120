@@ -31,8 +31,9 @@ def find_a(array)
     if a[0] = "a"
       a << new_array
     end
+  }
   new_array
-  end
+end
 
 def sum_array(array)
   array.inject {|sum, n| sum + n}
