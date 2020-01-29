@@ -12,7 +12,7 @@ end
 
 def swap_elements(array, index, destination_index)
   if index > destination_index
-    array.remove 
+    array = [ar]
 end
 
 def reverse_array(array)
