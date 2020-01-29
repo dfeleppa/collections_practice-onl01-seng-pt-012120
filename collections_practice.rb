@@ -26,13 +26,13 @@ def kesha_maker(array)
 end
 
 def find_a(array)
+  new_array = []
   array.each {|a|
-    if a[0] != "a"
-      a.delete
+    if a[0] = "a"
+      a << new_array
     end
-  array
-  }
-end
+  new_array
+  end
 
 def sum_array(array)
   array.inject {|sum, n| sum + n}
