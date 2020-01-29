@@ -30,6 +30,11 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.each {|n| n << "s"}
+  array.each_with_index {|element, index| 
+    if index = 1
+      n = n
+    else
+      n << "s"
+  }
   array
 end
