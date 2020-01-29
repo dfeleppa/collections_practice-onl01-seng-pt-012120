@@ -31,6 +31,7 @@ def find_a(array)
       a.delete
     end
   array
+  }
 end
 
 def sum_array(array)
